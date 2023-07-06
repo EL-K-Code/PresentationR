@@ -1,1 +1,2 @@
 # PresentationR
+Bonjour je suis Alex Komla LABOU, élève en troisième année de du cycle long (5ans) de la formation ingénieur statisticien économiste (ISE). Durant notre cours de R, nous avons eu à faire des exposés et dans ce référentiel, je vous fait la synthèse des différents. Vous avez dans le dossier exposé de R, les fichiers ayant servi à faire le livre et dans le fichier .docx, le rendu Word du live. La version en ligne est disponible via ce lien : https://axel.quarto.pub/expose-de-r/
