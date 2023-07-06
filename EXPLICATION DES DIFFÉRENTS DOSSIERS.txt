@@ -7,5 +7,3 @@
 * Usage de Template: Ici sont mis les fichiers utilisés pour la création d’un document Quarto en utilisant les styles d’un document de référence. Le document de référence en question est LABOU VF.
 
 
-
-Vu la taille des fichiers Livre Q et Présentation RevealJs, nous avons jugé interessant de vous le mettre sous format .zip
